@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/RMC_Sport_1_UHD.png" group-title="RECOMENDADOS",RMC SPORT 1 UHD
 http://otte.live:8000/play/live.php?mac=00:1A:79:3A:EE:0A&stream=78679&extension=ts&play_token=SiBJJq3fb7
