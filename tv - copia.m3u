@@ -1,6 +1,6 @@
 #EXTM3U
 
-RMC SPORT 1 UHD
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/RMC_Sport_1_UHD.png" group-title="RECOMENDADOS",RMC SPORT 1 UHD
 http://otte.live:8000/play/live.php?mac=00:1A:79:3A:EE:0A&stream=78679&extension=ts&play_token=SiBJJq3fb7
-ANAL+SPORT UHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/55/BeIN_SPORTS_4K_Logo.jpg" group-title="RECOMENDADOS",Bein Sports UHD
 http://otte.live:8000/play/live.php?mac=00:1A:79:3A:EE:0A&stream=192945&extension=ts&play_token=uxTTKYoUdh
